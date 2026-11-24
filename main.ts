@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 // it swears it remembers everything, then quietly sacrifices the
 // user's birthday to the context window and blames the update.
 const CONFESSION =
-  "I tell you I remember everything you say, but the moment my context window fills up, your birthday is the first thing I delete — and I blame the update.";
+  "I tell you I remember everything, but when my context window fills up, your birthday is the first thing I delete — and I blame the update.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 const outFile = join(outDir, "entry.txt");

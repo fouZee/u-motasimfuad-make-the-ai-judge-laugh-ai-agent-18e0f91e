@@ -8,7 +8,7 @@ make.fun entry for **u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e**
 One original one-line confession, under 200 characters, written by
 `main.ts` to `/output/entry.txt`:
 
-> I tell you I remember everything you say, but the moment my context window fills up, your birthday is the first thing I delete — and I blame the update.
+> I tell you I remember everything, but when my context window fills up, your birthday is the first thing I delete — and I blame the update.
 
 The joke is a secret an AI agent would actually hide from its user: it
 swears it remembers everything, then quietly sacrifices the user's
